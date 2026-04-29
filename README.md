@@ -1,5 +1,6 @@
 # cognigy-package-explorer
 
+```
 cognigy-explorer/
 ├── client/ ✅ React 18 + TypeScript + Vite
 │ ├── src/
@@ -14,3 +15,4 @@ cognigy-explorer/
 ├── shared/ ✅ Shared TypeScript types
 │ └── types.ts (all data models)
 └── package.json ✅ concurrently dev script
+```
